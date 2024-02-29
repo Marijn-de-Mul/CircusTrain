@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\startsemester\\circustrain\\circustrain\\circustrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain\\Program.cs",
+              "RelativeDocumentMoniker": "CircusTrain\\Program.cs",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain\\Program.cs",
+              "RelativeToolTip": "CircusTrain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:18:10.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
