@@ -1,0 +1,114 @@
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Small | Animal Type Carnivore | Animal Points 1.
+TRAIN DEBUG: Animal created. 
+Animal Type: Carnivore | Animal Size: Small.
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Medium | Animal Type Carnivore | Animal Points 3.
+TRAIN DEBUG: Animal created. 
+Animal Type: Carnivore | Animal Size: Medium.
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Large | Animal Type Carnivore | Animal Points 5.
+TRAIN DEBUG: Animal created. 
+Animal Type: Carnivore | Animal Size: Large.
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Small | Animal Type Herbivore | Animal Points 1.
+TRAIN DEBUG: Animal created. 
+Animal Type: Herbivore | Animal Size: Small.
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Medium | Animal Type Herbivore | Animal Points 3.
+TRAIN DEBUG: Animal created. 
+Animal Type: Herbivore | Animal Size: Medium.
+ANIMAL DEBUG: Animal Created. 
+Animal Type: Large | Animal Type Herbivore | Animal Points 5.
+TRAIN DEBUG: Animal created. 
+Animal Type: Herbivore | Animal Size: Large.
+TRAIN DEBUG: All animals created.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 2.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Small ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 4.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Medium ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 6.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Large ].
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Last Wagon reached.
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Last animal has been placed. Current Wagon reset.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 4.
+WAGON DEBUG: Animal compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Medium ] Old Animal [ Animal Type: Carnivore | Animal Size: Small ].
+WAGON DEBUG: Animal added to Wagon. 
+Animal Type: Herbivore | Animal Size: Medium.
+TRAIN DEBUG: Animal added to wagon. 
+Animal Type: Herbivore Animal Size: Medium.
+TRAIN DEBUG: Last animal has been placed. Current Wagon reset.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 9.
+WAGON DEBUG: Animal compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Large ] Old Animal [ Animal Type: Carnivore | Animal Size: Small ].
+WAGON DEBUG: Animal added to Wagon. 
+Animal Type: Herbivore | Animal Size: Large.
+TRAIN DEBUG: Animal added to wagon. 
+Animal Type: Herbivore Animal Size: Large.
+TRAIN DEBUG: First sort completed with first list.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 10.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Large ] Old Animal [ Animal Type: Carnivore | Animal Size: Large ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 8.
+WAGON DEBUG: Animal compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Large ] Old Animal [ Animal Type: Carnivore | Animal Size: Medium ].
+WAGON DEBUG: Animal added to Wagon. 
+Animal Type: Herbivore | Animal Size: Large.
+TRAIN DEBUG: Animal added to wagon. 
+Animal Type: Herbivore Animal Size: Large.
+TRAIN DEBUG: Last animal has been placed. Current Wagon reset.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 8.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Medium ] Old Animal [ Animal Type: Carnivore | Animal Size: Large ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 4.
+WAGON DEBUG: Animal compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Medium ] Old Animal [ Animal Type: Carnivore | Animal Size: Small ].
+WAGON DEBUG: Animal added to Wagon. 
+Animal Type: Herbivore | Animal Size: Medium.
+TRAIN DEBUG: Animal added to wagon. 
+Animal Type: Herbivore Animal Size: Medium.
+TRAIN DEBUG: Last animal has been placed. Current Wagon reset.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 6.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Large ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 9.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Medium ].
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: Animal fits according to points. 
+Total points 5.
+WAGON DEBUG: Animal not compatible with Wagon. 
+ New Animal [ Animal Type: Herbivore | Animal Size: Small ] Old Animal [ Animal Type: Carnivore | Animal Size: Small ].
+TRAIN DEBUG: Wagon created.
+TRAIN DEBUG: Last Wagon reached.
+TRAIN DEBUG: Checked for Last Wagon.
+TRAIN DEBUG: First sort completed with second list.

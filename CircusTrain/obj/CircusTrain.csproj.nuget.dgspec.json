@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain.csproj": {}
+    "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\CircusTrain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain.csproj": {
+    "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\CircusTrain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain.csproj",
+        "projectUniqueName": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\CircusTrain.csproj",
         "projectName": "CircusTrain",
-        "projectPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\CircusTrain.csproj",
+        "projectPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\CircusTrain.csproj",
         "packagesPath": "C:\\Users\\MarijndeMul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Startsemester\\CircusTrain\\CircusTrain\\obj\\",
+        "outputPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
