@@ -1,0 +1,27 @@
+<mxfile host="Electron" modified="2024-03-05T11:11:01.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="EjSuddKTTDsFMR_PFyZB" version="22.0.3" type="device">
+  <diagram name="Page-1" id="tcYN4Gb5GG9mrsCU7EqY">
+    <mxGraphModel dx="1290" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aCge9zt8Py5w39OF1Fzl-1" value="Circus Eigenaar&lt;br&gt;[Person]&lt;br&gt;&lt;br&gt;Persoon die de dieren&lt;br&gt;wilt verkopen en dus&lt;br&gt;eigenaar ervan is" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="170" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aCge9zt8Py5w39OF1Fzl-2" value="CircusTrein &lt;br&gt;Sorteer Systeem&lt;br&gt;[Software System]&lt;br&gt;&lt;br&gt;Systeem dat de trein zo &lt;br&gt;goed mogelijk sorteert &lt;br&gt;gebasseerd op een aantal vaste regels. De trein wordt zo economisch mogelijk beladen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="360" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="aCge9zt8Py5w39OF1Fzl-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aCge9zt8Py5w39OF1Fzl-1" target="aCge9zt8Py5w39OF1Fzl-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="350" as="sourcePoint" />
+            <mxPoint x="680" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aCge9zt8Py5w39OF1Fzl-4" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aCge9zt8Py5w39OF1Fzl-3">
+          <mxGeometry x="-0.1086" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
