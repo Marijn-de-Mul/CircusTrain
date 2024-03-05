@@ -14,8 +14,7 @@ namespace CircusTrain
         // Variables 
 
         public List<Animal> Animals = new List<Animal>();
-
-        public int Points { get; private set; } = 0; 
+        public int Points { get; private set; } = 0;
 
         // Constructor 
 
@@ -34,30 +33,38 @@ namespace CircusTrain
 
         // Methods 
 
-        public void AddAnimal(Animal animal)
+        private void AddAnimal(Animal animal)
         {
             Add(animal);
-
-            Program.Debug($"WAGON DEBUG: Animal added to Wagon. \nAnimal Type: {animal.Type} | Animal Size: {animal.Size}.");
         }
 
-        public bool CanAdd(Animal animal)
+        public bool TryAdd(Animal animal)
         {
+            int points = 0; 
+
+            foreach (Animal wagonAnimal in Animals)
+            {
+                points += wagonAnimal.Points;
+            }
+
             foreach (Animal wagonAnimal in Animals)
             {
                 if (wagonAnimal.Type == Enums.AnimalType.Carnivore && animal.Type == Enums.AnimalType.Carnivore)
                 {
-                    Program.Debug($"WAGON DEBUG: Animal not compatible with Wagon. \n New Animal [ Animal Type: {animal.Type} | Animal Size: {animal.Size} ] Old Animal [ Animal Type: {wagonAnimal.Type} | Animal Size: {wagonAnimal.Size} ].");
                     return false; 
                 } 
                 else if (wagonAnimal.Points >= animal.Points && wagonAnimal.Type == Enums.AnimalType.Carnivore)
                 {
-                    Program.Debug($"WAGON DEBUG: Animal not compatible with Wagon. \n New Animal [ Animal Type: {animal.Type} | Animal Size: {animal.Size} ] Old Animal [ Animal Type: {wagonAnimal.Type} | Animal Size: {wagonAnimal.Size} ].");
                     return false; 
                 } 
+                else if (points + animal.Points > 10)
+                {
+                    return false; 
+                }
                 else
                 {
-                    Program.Debug($"WAGON DEBUG: Animal compatible with Wagon. \n New Animal [ Animal Type: {animal.Type} | Animal Size: {animal.Size} ] Old Animal [ Animal Type: {wagonAnimal.Type} | Animal Size: {wagonAnimal.Size} ].");
+                    AddAnimal(animal);
+
                     return true; 
                 }
             }

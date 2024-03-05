@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustraintest\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|solutionrelative:circustraintest\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustraintest\\circustraintest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|solutionrelative:circustraintest\\circustraintest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustraintest\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F5A4A5-AE3C-4365-9EBD-3D93891D4DFE}|CircusTrainTest\\CircusTrainTest.csproj|solutionrelative:circustraintest\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|solutionrelative:circustrain\\wagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CE9FBAA-E6A0-43C7-9C35-4C68EE283D94}|CircusTrain\\CircusTrain.csproj|c:\\users\\marijndemul\\onedrive - office 365 fontys\\github\\semester2\\algoritmiek\\circustrain\\circustrain\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +50,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CircusTrainTest",
+              "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrainTest\\CircusTrainTest.csproj",
+              "RelativeDocumentMoniker": "CircusTrainTest\\CircusTrainTest.csproj",
+              "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrainTest\\CircusTrainTest.csproj",
+              "RelativeToolTip": "CircusTrainTest\\CircusTrainTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T09:50:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTests.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrainTest\\UnitTests.cs",
               "RelativeDocumentMoniker": "CircusTrainTest\\UnitTests.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrainTest\\UnitTests.cs",
               "RelativeToolTip": "CircusTrainTest\\UnitTests.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAuwHoAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T11:25:05.58Z",
               "EditorCaption": ""
@@ -65,14 +82,14 @@
               "RelativeDocumentMoniker": "CircusTrain\\Input.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Input.cs",
               "RelativeToolTip": "CircusTrain\\Input.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:53:37.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Enums.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Enums.cs",
               "RelativeDocumentMoniker": "CircusTrain\\Enums.cs",
@@ -80,7 +97,8 @@
               "RelativeToolTip": "CircusTrain\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T13:49:11.567Z"
+              "WhenOpened": "2024-02-29T13:49:11.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -90,46 +108,46 @@
               "RelativeDocumentMoniker": "CircusTrain\\Animal.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Animal.cs",
               "RelativeToolTip": "CircusTrain\\Animal.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:27:05.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Wagon.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Wagon.cs",
               "RelativeDocumentMoniker": "CircusTrain\\Wagon.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Wagon.cs",
               "RelativeToolTip": "CircusTrain\\Wagon.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAqwC8AAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:26:57.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Train.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Train.cs",
               "RelativeDocumentMoniker": "CircusTrain\\Train.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Train.cs",
               "RelativeToolTip": "CircusTrain\\Train.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAuwFgAAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:26:49.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Program.cs",
               "RelativeDocumentMoniker": "CircusTrain\\Program.cs",
               "ToolTip": "C:\\Users\\MarijndeMul\\OneDrive - Office 365 Fontys\\Github\\Semester2\\Algoritmiek\\CircusTrain\\CircusTrain\\Program.cs",
               "RelativeToolTip": "CircusTrain\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCAAAAAXAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T13:18:10.971Z",
               "EditorCaption": ""

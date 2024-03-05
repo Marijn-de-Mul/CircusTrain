@@ -15,7 +15,6 @@ namespace CSharpTutorials
 
         // Variables
 
-        private static bool debug = true; 
         private static bool output = true;
 
         // Static Methods
@@ -24,12 +23,15 @@ namespace CSharpTutorials
         {
             Train train = new Train();
 
-            Debug($"DEBUG: Train object created. Info: {train}");
-
             train.Create(Input.SmallCarnivore, Input.MediumCarnivore, Input.LargeCarnivore, Input.SmallHerbivore, Input.MediumHerbivore, Input.LargeHerbivore);
 
-            Debug($"DEBUG: Train created.");
-            
+            Output(train); 
+
+            Console.ReadLine();
+        }
+
+        private static void Output(Train train)
+        {
             if (output)
             {
                 int counter = 0;
@@ -45,18 +47,6 @@ namespace CSharpTutorials
                         Console.WriteLine($"Size: {animal.Size} | Type: {animal.Type} | Points: {animal.Points}.");
                     }
                 }
-            }
-
-            Debug($"DEBUG: Finished.");
-
-            Console.ReadLine();
-        }
-
-        public static void Debug(string message)
-        {
-            if (debug)
-            {
-                Console.WriteLine(message);
             }
         }   
     }

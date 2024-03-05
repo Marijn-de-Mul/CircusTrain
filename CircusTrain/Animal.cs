@@ -36,8 +36,6 @@ namespace CircusTrain
             {
                 Points += 5;
             }
-
-            Program.Debug($"ANIMAL DEBUG: Animal Created. \nAnimal Type: {size} | Animal Type {type} | Animal Points {Points}.");
         }
     }
 }
